@@ -3,6 +3,43 @@
 ```
 npx create-next-app --example with-tailwindcss with-tailwindcss-app
 ```
+## Install react icons
+
+``
+npm install react-icons
+``
+
+## Install CLI tools
+
+``
+npm install -g @sanity/cli
+``
+
+``
+sanity init --coupon cleverprogrammer
+``
+
+### Install sanity client
+
+``
+npm i @sanity/client
+``
+
+## Run database in localhost
+
+``
+cd studio
+``
+
+``
+sanity start
+``
+
+## Install thirdweb hooks
+
+``
+npm i @3rdweb/hooks
+``
 
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
